@@ -12,6 +12,7 @@ We suggest these machines are used in tandem on a local, host-only network for t
 
 ## Installation
 
+[Click here to download](https://rb.gy/f5vzeo)
 Download the Rakhat file, and extract to your VM folder.
 
 *Please note these machines were designed on VMWare and may not function properly on VirtualBox*
