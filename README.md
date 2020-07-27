@@ -1,5 +1,5 @@
 # Rakhat
-
+[Click Here For Our Presentation](https://youtu.be/Yui49hw_2tU)
 
 ## Overview
 
@@ -8,6 +8,7 @@ Rakhat - a set of deliberately exploitable VM’s designed to provide practice f
 Blake-Sploitable is much more susceptible to exploitation than Corey, and is designed to provide practice for low-level attacks and exploits. Corey is only accessible from Blake-Sploitable or a remote login, and has much more stringent security measures. This machine is designed for low to moderate level exploits. 
 
 We suggest these machines are used in tandem on a local, host-only network for the best experience. It’s important to note that these machines are designed for practice only, and are not designed for business or personal use, and should not be allowed to access an external network. 
+
 
 
 ## Installation
